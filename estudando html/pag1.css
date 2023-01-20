@@ -1,0 +1,21 @@
+.tamanhocards{
+	width: 18rem;
+}
+.carrosel-imagem {
+	object-fit: cover;
+	object-position:0 40%;
+	height: 600px;
+}
+h3,p{
+font-family: 'Oswald', sans-serif;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	color:#391386;
+}
+.card-posicao-imagem{
+	object-fit: cover;
+	/*object-position:0 40%;*/
+	height: 200px;
+
+}
